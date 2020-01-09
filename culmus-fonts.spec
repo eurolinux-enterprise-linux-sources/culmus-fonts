@@ -8,7 +8,7 @@ Hebrew from the Culmus project.
 
 Name:           %{fontname}-fonts
 Version:        0.130
-Release:        2%{?dist}
+Release:        3%{?dist}
 Summary:        Fonts for Hebrew from Culmus project
 
 Group:          User Interface/X
@@ -322,6 +322,9 @@ done
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.130-3
+- Mass rebuild 2013-12-27
+
 * Wed Jun 19 2013 Pravin Satpute <psatpute@redhat.com> - 0.130-2
 - Resolved #975735 :- Typo in fontconfig file
 
